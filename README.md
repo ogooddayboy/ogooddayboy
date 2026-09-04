@@ -1,3 +1,3 @@
 # My-profile-
 
-<img width="300" height="300" alt="giphy" src="https://github.com/user-attachments/assets/2b0a284a-266a-4500-8175-c5c9b6ed9334" />
+<img src="https://github.com/user-attachments/assets/d052d917-f7aa-4f63-8fc3-25b5ce14d5ad" width="300" alt="My GIF">
